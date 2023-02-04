@@ -26,6 +26,7 @@ body {
   text-align: center;
   /* height: 100vh; */
   margin: 10px;
+  background-color: var(--background-color);
 }
 
 header {
@@ -36,7 +37,7 @@ header {
 footer,
 footer a {
   font-family: 'Poppins', sans-serif;
-  color: gray;
+  color: rgb(60, 60, 60);
   text-decoration: none;
 }
 
